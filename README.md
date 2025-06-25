@@ -28,7 +28,7 @@ This Python script scrapes the **top 5 trending repositories** from [GitHub Tren
 3. Run the script:
 
    ```bash
-   python github_trending_scraper.py
+   python scraper.py
    ```
 
 4. Check the output file: `trending_repos.csv`
@@ -47,12 +47,6 @@ This Python script scrapes the **top 5 trending repositories** from [GitHub Tren
 
 ## 📂 Output File
 
-- `trending_repos.csv` is generated in the current directory after script execution.
+- `github_trending_top5.csv` is generated in the current directory after script execution.
 
-## 📬 Contact
 
-Feel free to reach out or contribute to the project by submitting pull requests.
-
----
-
-Made with ❤️ using Python
